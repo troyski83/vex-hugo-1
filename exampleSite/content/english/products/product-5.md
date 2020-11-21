@@ -3,13 +3,10 @@ title: Special Edition Denali Dog Bed
 date: 2019-10-17T11:22:16.000+06:00
 image: images/showcase/showcase-5.png
 images:
-- images/showcase/showcase-5.png
-- images/showcase/showcase-2.png
-- images/showcase/showcase-3.png
-- images/showcase/showcase-4.png
+- "/images/blackbed.jpg"
 description: this is meta description
-price: '279.00'
-discount_price: '25.00'
+price: '299.00'
+discount_price: '279.00'
 colors:
 - black
 - white
