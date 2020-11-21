@@ -75,7 +75,7 @@ subscription:
   placeholder: Your Email Address Here
 testimonial:
   enable: true
-  title: Watch Review
+  title: Our Reviews
   testimonial_item:
   - name: Jonathon Andrew
     designation: CEO, Themefisher
