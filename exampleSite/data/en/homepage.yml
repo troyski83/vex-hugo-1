@@ -16,7 +16,7 @@ features:
   image: images/img_5146m.png
   left_side:
   - title: Built Tough
-    icon: tf-ion-ios-alarm-outline
+    icon: tf-ion-ios-paw
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Elegant Design
