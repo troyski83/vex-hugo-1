@@ -9,8 +9,8 @@ price: '299.00'
 discount_price: '279.00'
 colors:
 - black
-- white
-- gray
+- red
+- blue
 sizes:
 - small
 - medium
