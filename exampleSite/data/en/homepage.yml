@@ -77,7 +77,7 @@ subscription:
   bg_image: images/IMG_3204.jpg
   title: Get Product Updates
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  placeholder: Your Email Address Here
+  placeholder: info@denalidogbeds.com
 testimonial:
   enable: true
   title: Watch Review
