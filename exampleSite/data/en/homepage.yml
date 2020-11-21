@@ -43,11 +43,11 @@ features:
 promo:
   enable: true
   image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  title: " Designed By A Loving But Frustrated Dog Owner"
+  content: Meet Denali! Denali is one of the family…. but… he likes to chew. After
+    many attempts to develop a home grown solution, we came up with the Denali Dog
+    Bed. We hope you can enjoy the end product and rest assured that the dog won’t
+    eat his bed!
 about_product:
   enable: true
   title: Why Choose Apple Watch
