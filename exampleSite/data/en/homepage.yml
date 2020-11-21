@@ -48,7 +48,7 @@ promo:
     Bed. We hope you can enjoy the end product and rest assured that the dog won’t
     eat his bed!
 about_product:
-  enable: true
+  enable: false
   title: Why Choose Apple Watch
   items:
   - image: images/showcase/showcase-4.png
