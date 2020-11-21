@@ -37,7 +37,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: No Access Edges
-    icon: tf-ion-ios-cart-outline
+    icon: tf-ion-android-lock
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
 promo:
