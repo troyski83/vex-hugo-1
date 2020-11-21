@@ -55,7 +55,7 @@ about_product:
   enable: true
   title: Mix and Match Denali Dog Beds
   items:
-  - image: images/showcase/showcase-4.png
+  - image: images/bed.gif
     title: Personalise your dogs bed
     content: Mix and match from a range of frame colours and canvas colours to suit
       you or your dogs style!
