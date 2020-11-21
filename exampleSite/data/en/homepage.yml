@@ -77,14 +77,13 @@ testimonial:
   enable: true
   title: Our Reviews
   testimonial_item:
-  - name: Jonathon Andrew
-    designation: CEO, Themefisher
-    image: images/avater.png
-    content: A wonderful serenity has taken possession of my entire soul, like these
-      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
-      feel the charm of existence in this spot, which was created for the bliss of
-      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
+  - name: Emilio
+    designation: RSPCA Dog Foster Parent
+    image: ''
+    content: I foster several dogs every year until they find a new forever home.
+      I used to go through several beds a year until I started using the Denali Dog
+      Bed. Now I have 3 Denali Dog Beds that have lasted over 12 months and are still
+      going strong. The dogs love the beds!
   - name: Jonathon Andrew
     designation: CEO, Themefisher
     image: images/avater.png
