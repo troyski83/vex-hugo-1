@@ -65,7 +65,7 @@ about_product:
       link: "#"
 products:
   enable: true
-  title: Checkout Our All Products
+  title: Checkout All Our Products
 subscription:
   enable: true
   bg_image: images/IMG_3204.jpg
